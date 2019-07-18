@@ -1,1 +1,4 @@
-
+# RANSAC.py is about the pseudo code of RANSAC algorithm
+# median_filter_code.py is about the code of 2D median convolution/filtering
+# image_stitching.py is about the code of stitching two images
+ 
