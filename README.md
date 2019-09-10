@@ -10,7 +10,7 @@ Include these files:
 this file is about the train and val data we need to analysis.  
 **------Project**  
 this file contain three targets of classification:  
-<font color = red>a)classes</font>  
+\clubsuit a)classes
 Complete the Classes classification and predict whether the animal belongs to Mammals or Birds.   
 b)species  
 Complete the classification of animal species and predict whether the animal is rabbit, rat or chicken.   
